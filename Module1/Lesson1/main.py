@@ -10,7 +10,7 @@ print("BIẾN VÀ TOÁN TỬ")
 a = 4
 b = 6
 
-# + - * / % //
+# + - * / % // 
 print("a + b =", a + b)
 print("a - b =", a - b)
 print("a * b =", a * b)
@@ -20,7 +20,10 @@ print("a // b =", a // b)
 
 
 '''________________________________________________________________'''
+
+
 print("\nKIỂU DỮ LIỆU")
+
 # Kiểu dữ liệu
 
 # kiểu dữ liệu chữ
@@ -85,4 +88,3 @@ i = 0
 while i < 5:
     print("Name")
     i += 1
-

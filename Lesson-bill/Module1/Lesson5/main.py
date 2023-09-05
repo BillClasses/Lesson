@@ -26,7 +26,6 @@ class Car(Vehicle):
     pass
 
 
-
 create_vehicle = Vehicle("Vehicle")
 create_car = Car("Car")
 
